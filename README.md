@@ -1,6 +1,6 @@
 # Gaurang-Todo-application
 
-Visit Site - gaurang-todo-application.netlify.app
+Visit Site - https://gaurang-todo-application.netlify.app/
 
 Instructions to run react App.
 1. Create react App - npx create react-app
