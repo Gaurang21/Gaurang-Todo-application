@@ -1,4 +1,6 @@
-# Gaurang-Todo-application
+# Todo-application
+
+A todo list application built using React.js which allows you to add new todos, delete completed todos and filter todos based on completed and pending. The todos are saved in the browser local storage so whenever you open the application in the same browser your saved todos are fetched and displayed.
 
 Visit Site - https://gaurang-todo-application.netlify.app/
 
